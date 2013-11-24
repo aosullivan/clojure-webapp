@@ -4,4 +4,4 @@
 
 (defroutes routes
   (HEAD "/" [] "")
-  (GET "*" request "hello its adrian"))
+  (GET "*" request "Hello, its Adrian! <br> Geeking out."))
